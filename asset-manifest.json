@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/css/main.3fab9219.css",
-    "main.js": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/js/main.beab9c7d.js",
-    "static/js/787.d07e8336.chunk.js": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/js/787.d07e8336.chunk.js",
-    "static/media/SEGA.woff": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/RoboFriendsnpm%20install%20--save%20gh-pages/index.html",
-    "main.3fab9219.css.map": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/css/main.3fab9219.css.map",
-    "main.beab9c7d.js.map": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/js/main.beab9c7d.js.map",
-    "787.d07e8336.chunk.js.map": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/js/787.d07e8336.chunk.js.map"
+    "main.css": "/RoboFriends/static/css/main.4110962f.css",
+    "main.js": "/RoboFriends/static/js/main.f48d0cf0.js",
+    "static/js/787.d07e8336.chunk.js": "/RoboFriends/static/js/787.d07e8336.chunk.js",
+    "static/media/SEGA.woff": "/RoboFriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RoboFriends/index.html",
+    "main.4110962f.css.map": "/RoboFriends/static/css/main.4110962f.css.map",
+    "main.f48d0cf0.js.map": "/RoboFriends/static/js/main.f48d0cf0.js.map",
+    "787.d07e8336.chunk.js.map": "/RoboFriends/static/js/787.d07e8336.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fab9219.css",
-    "static/js/main.beab9c7d.js"
+    "static/css/main.4110962f.css",
+    "static/js/main.f48d0cf0.js"
   ]
 }
