@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/css/main.3fab9219.css",
+    "main.js": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/js/main.beab9c7d.js",
+    "static/js/787.d07e8336.chunk.js": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/js/787.d07e8336.chunk.js",
+    "static/media/SEGA.woff": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RoboFriendsnpm%20install%20--save%20gh-pages/index.html",
+    "main.3fab9219.css.map": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/css/main.3fab9219.css.map",
+    "main.beab9c7d.js.map": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/js/main.beab9c7d.js.map",
+    "787.d07e8336.chunk.js.map": "/RoboFriendsnpm%20install%20--save%20gh-pages/static/js/787.d07e8336.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fab9219.css",
+    "static/js/main.beab9c7d.js"
+  ]
+}
